@@ -220,17 +220,17 @@ shape="rect">
 ```
 
 ## OUTPUT
-![Alt text](image.png)
+![image](https://github.com/Anbuselvan04/NearMe/assets/119410896/e07868f8-1a94-4c44-8d3d-56d8b91e6eac)
 
-![Alt text](image-1.png)
+![image](https://github.com/Anbuselvan04/NearMe/assets/119410896/68043614-b221-47e6-a31b-162a49aab7d8)
 
-![Alt text](image-2.png)
+![image](https://github.com/Anbuselvan04/NearMe/assets/119410896/ffa39e80-9f7b-4e3d-a99a-cefc579a883f)
 
-![Alt text](image-3.png)
+![image](https://github.com/Anbuselvan04/NearMe/assets/119410896/9c03306b-54d7-4b01-99ae-100ef438ce37)
 
-![Alt text](image-4.png)
+![image](https://github.com/Anbuselvan04/NearMe/assets/119410896/f039b831-ce97-481c-968f-dd0fc7b29226)
 
-![Alt text](image-5.png)
+![image](https://github.com/Anbuselvan04/NearMe/assets/119410896/d64461e5-0719-442c-805f-d5f1ffdbc191)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
