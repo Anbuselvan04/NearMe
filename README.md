@@ -51,11 +51,13 @@ Execute the programs and publish them.
 ```
 
 ## OUTPUT
-![Alt text](image.png)
+![image](https://github.com/Anbuselvan04/NearMe/assets/119410896/ae376c90-1c81-487f-9649-0cfb5279e162)
+
 
 <br>
 
-![Alt text](image-1.png)
+![image](https://github.com/Anbuselvan04/NearMe/assets/119410896/19cb4814-dad1-4a97-a36d-185290bd6ceb)
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
