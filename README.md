@@ -222,6 +222,8 @@ shape="rect">
 ## OUTPUT
 ![image](https://github.com/Anbuselvan04/NearMe/assets/119410896/e07868f8-1a94-4c44-8d3d-56d8b91e6eac)
 
+![Map](https://github.com/Anbuselvan04/NearMe/assets/119410896/05713144-35a0-4e5e-8284-06c44b7d0b16)
+
 ![image](https://github.com/Anbuselvan04/NearMe/assets/119410896/68043614-b221-47e6-a31b-162a49aab7d8)
 
 ![image](https://github.com/Anbuselvan04/NearMe/assets/119410896/ffa39e80-9f7b-4e3d-a99a-cefc579a883f)
